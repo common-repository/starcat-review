@@ -1,0 +1,683 @@
+#. User Review Submit, Edit, Reply Form
+#. __('', SCR_DOMAIN)
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Title"
+msgstr "Title" 
+
+msgid "Description"
+msgstr "Description" 
+
+msgid "Pros"
+msgstr "Pros" 
+
+msgid "Type new or select existing pros"
+msgstr "Type new or select existing pros" 
+
+msgid "Cons"
+msgstr "Cons" 
+
+msgid "Type new or select existing cons"
+msgid "Type new or select existing cons"
+
+msgid "Submit"
+msgstr "Submit" 
+
+msgid "Reply"
+msgstr "Reply"
+
+msgid "REPLY"
+msgstr "REPLY" 
+
+msgid "EDIT"
+msgstr "EDIT" 
+
+msgid "Reply to"
+msgstr "Reply to" 
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Cancel"
+msgstr "Cancel" 
+
+msgid "Thanks for your review"
+msgstr "Thanks for your review" 
+
+msgid "You can see your review below. Also, look at the users summary"
+msgstr "You can see your review below. Also, look at the users summary" 
+
+msgid "Review failed. Please try again later!"
+msgstr "Review failed. Please try again later!" 
+
+msgid "If it keeps failing, please contact the admin of the site"
+msgstr "If it keeps failing, please contact the admin of the site" 
+
+#. Summary
+
+msgid "Author Rating"
+msgstr "Author Rating" 
+
+msgid "Users Rating (%d)"
+msgstr "Users Rating (%d)" 
+
+msgid "Pros & Cons"
+msgstr "Pros & Cons"
+
+msgid "Not Rated Yet !!!"
+msgstr "Not Rated Yet !!!"
+
+msgid "overall"
+msgstr "overall" 
+
+msgid "customer review"
+msgstr "customer review" 
+
+#. User Reviews List Controlls
+msgid "Recent"
+msgstr "Recent" 
+
+msgid "Most Positive"
+msgstr "Most Positive" 
+
+msgid "Trending"
+msgstr "Trending" 
+
+msgid "Alphabetic Asc"
+msgstr "Alphabetic Asc" 
+
+msgid "Alphabetic Desc"
+msgstr "Alphabetic Desc" 
+
+msgid "Number of Reviews"
+msgstr "Number of Reviews" 
+
+msgid "Recently Updated"
+msgstr "Recently Updated" 
+
+msgid "Most Helpful"
+msgstr "Most Helpful" 
+
+msgid "Sort by"
+msgstr "Sort by" 
+
+msgid "Search"
+msgstr "Search" 
+
+#. User Reviews List
+
+msgid "Was this helpful to you ?"
+msgstr "Was this helpful to you ?" 
+
+msgid "%d of %d people found this review helpful"
+msgstr "%d of %d people found this review helpful"
+
+msgid "AT"
+msgstr "AT" 
+
+msgid "%s in Moderation !"
+msgstr "%s in Moderation !"
+
+#. CPT 
+
+msgid "See More"
+msgstr "See More" 
+
+msgid "Topic"
+msgstr "Topic" 
+
+#. Photo Reviews
+
+msgid "All User Review Images"
+msgstr "All User Review Images" 
+
+msgid "Back to Gallery"
+msgstr "Back to Gallery" 
+
+#. Dashboard Settings
+
+msgid "Starcat Settings"
+msgstr "Starcat Settings" 
+
+msgid "General Settings"
+msgstr "General Settings" 
+
+msgid "Main Page"
+msgstr "Main Page" 
+
+msgid "Category Page"
+msgstr "Category Page" 
+
+msgid "Single Page"
+msgstr "Single Page" 
+
+msgid "User Reviews"
+msgstr "User Reviews" 
+
+msgid "Photo Reviews"
+msgstr "Photo Reviews" 
+
+msgid "Woocommerce Notification"
+msgstr "Woocommerce Notification" 
+
+msgid "Comparison Table"
+msgstr "Comparison Table" 
+
+#. General Settings
+
+msgid "Where to include reviews?"
+msgstr "Where to include reviews?" 
+
+msgid "Enable author review"
+msgstr "Enable author review" 
+
+msgid "Enable Pros and Cons"
+msgstr "Enable Pros and Cons" 
+
+msgid "Stats"
+msgstr "Stats" 
+
+msgid "You can rate each of these stats in the edit post page(author rating). And if you have enabled 'user review', your users can rate them from the front end"
+msgstr "You can rate each of these stats in the edit post page(author rating). And if you have enabled 'user review', your users can rate them from the front end" 
+
+msgid "Single or Multiple Stat"
+msgstr "Single or Multiple Stat" 
+
+msgid "Single"
+msgstr "Single" 
+
+msgid "Multiple"
+msgstr "Multiple" 
+
+msgid "The first stat is always considered as the primary stat ( highlighted by blue color ), When you change from multiple stat to single stat values from the primary stat are used."
+msgstr "The first stat is always considered as the primary stat ( highlighted by blue color ), When you change from multiple stat to single stat values from the primary stat are used." 
+
+msgid "Feature"
+msgstr "Feature" 
+
+msgid "Stats Type"
+msgstr "Stats Type" 
+
+msgid "Source Type"
+msgstr "Source Type" 
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "Icons"
+msgstr "Icons"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Show Rating Label"
+msgstr "Show Rating Label" 
+
+msgid "Icons Color"
+msgstr "Icons Color" 
+
+msgid "Icons Label Color"
+msgstr "Icons Label Color" 
+
+msgid "Outline Image"
+msgstr "Outline Image" 
+
+msgid "Image size below 50 * 50 is enough"
+msgstr "Image size below 50 * 50 is enough" 
+
+msgid "Limit"
+msgstr "Limit" 
+
+msgid "Star stat scale b/w limit 5 to 10"
+msgstr "Star stat scale b/w limit 5 to 10" 
+
+msgid "Steps"
+msgstr "Steps" 
+
+msgid "Half"
+msgstr "Half" 
+
+msgid "Full"
+msgstr "Full" 
+
+msgid "Stat Animate"
+msgstr "Stat Animate"
+
+msgid "No rated message"
+msgstr "No rated message"  
+
+#. Main Page
+msgid "Main Page Meta Title"
+msgstr "Main Page Meta Title" 
+
+msgid "Note"
+msgstr "Note" 
+
+msgid "Keep your meta title between 60 and 64 characters."
+msgstr "Keep your meta title between 60 and 64 characters." 
+
+msgid "Main Page Meta Description"
+msgstr "Main Page Meta Description" 
+
+msgid "Keep your meta descriptions between 150 and 154 characters."
+msgstr "Keep your meta descriptions between 150 and 154 characters." 
+
+msgid "Main Page Slug"
+msgstr "Main Page Slug" 
+
+msgid "Visit Main Page"
+msgstr "Visit Main Page" 
+
+msgid "Where is my main page?"
+msgstr "Where is my main page?" 
+
+msgid "Save and Refresh Page if you changed it."
+msgstr "Save and Refresh Page if you changed it." 
+
+msgid "Template"
+msgstr "Template" 
+
+msgid "Layout Types for your Reviews Main Page. Left / Right Sidebar, No-sidebar"
+msgstr "Layout Types for your Reviews Main Page. Left / Right Sidebar, No-sidebar" 
+
+msgid "You can add widgets to your sidebar from Appearance -> Widgets"
+msgstr "You can add widgets to your sidebar from Appearance -> Widgets" 
+
+msgid "Components Control"
+msgstr "Components Control" 
+
+msgid "Controls order and visibility of these components in Main Page"
+msgstr "Controls order and visibility of these components in Main Page" 
+
+msgid "Category Listing"
+msgstr "Category Listing" 
+
+msgid "Review Listing"
+msgstr "Review Listing" 
+
+msgid "Default Sort By"
+msgstr "Default Sort By" 
+
+msgid "Select a sortby option"
+msgstr "Select a sortby option" 
+
+msgid "Show Description"
+msgstr "Show Description" 
+
+msgid "Num Of Columns"
+msgstr "Num Of Columns" 
+
+msgid "Select an option"
+msgstr "Select an option" 
+
+msgid "Alphabetical Ascending"
+msgstr "Alphabetical Ascending" 
+
+msgid "Alphabetical Descending"
+msgstr "Alphabetical Descending" 
+
+#. Category Page
+
+msgid "Layout Types for your Review Categories Page. Left / Right Sidebar, No-sidebar"
+msgstr "Layout Types for your Review Categories Page. Left / Right Sidebar, No-sidebar"  
+
+msgid "Show Controls"
+msgstr "Show Controls" 
+
+msgid "Controls"
+msgstr "Controls" 
+
+msgid "Show Search"
+msgstr "Show Search" 
+
+msgid "Show SortBy"
+msgstr "Show SortBy" 
+
+msgid "Listing Options"
+msgstr "Listing Options" 
+
+msgid "Posts Per Page"
+msgstr "Posts Per Page" 
+
+#. Single Page
+
+msgid "These settings are only for starcat-review post type."
+msgstr "These settings are only for starcat-review post type." 
+
+msgid "Layout Types for your Single Review Page. Left / Right Sidebar, No-sidebar."
+msgstr "Layout Types for your Single Review Page. Left / Right Sidebar, No-sidebar." 
+
+msgid "Show Review"
+msgstr "Show Review" 
+
+msgid "Author Only"
+msgstr "Author Only" 
+
+msgid "User Only"
+msgstr "User Only" 
+
+msgid "Author and User both"
+msgstr "Author and User both" 
+
+msgid "Combined Rating"
+msgstr "Combined Rating" 
+
+#. User Reviews
+
+msgid "Who Can Review"
+msgstr "Who Can Review" 
+
+msgid "Selecting Everyone will let even Non Logged-in Users add reviews"
+msgstr "Selecting Everyone will let even Non Logged-in Users add reviews" 
+
+msgid "Logged In Users"
+msgstr "Logged In Users" 
+
+msgid "Everyone"
+msgstr "Everyone" 
+
+msgid "Auto Approve Review"
+msgstr "Auto Approve Review" 
+
+msgid "Publish the submitted review directly. Don't ask for approval"
+msgstr "Publish the submitted review directly. Don't ask for approval" 
+
+msgid "Allow Same User Can leave More than One Review"
+msgstr "Allow Same User Can leave More than One Review" 
+
+msgid "Allow Same user to leave more than one review on a single post"
+msgstr "Allow Same user to leave more than one review on a single post" 
+
+msgid "Show User Reviews List Title"
+msgstr "Show User Reviews List Title" 
+
+msgid "User Reviews List Title"
+msgstr "User Reviews List Title" 
+
+msgid "Voting"
+msgstr "Voting" 
+
+msgid "User Review Form"
+msgstr "User Review Form" 
+
+msgid "Show Form Title"
+msgstr "Show Form Title" 
+
+msgid "Form Title"
+msgstr "Form Title" 
+
+msgid "Show Title"
+msgstr "Show Title" 
+
+msgid "Show Stat"
+msgstr "Show Stat" 
+
+msgid "User Review Rating options are based on stats option from general settings section"
+msgstr "User Review Rating options are based on stats option from general settings section" 
+
+msgid "Show reCAPTCHA (v2 checkbox)"
+msgstr "Show reCAPTCHA (v2 checkbox)" 
+
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Secret Key" 
+
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Key" 
+
+msgstr "Please add a reCAPTCHA Site Key !" 
+msgstr "Please add a reCAPTCHA Site Key !" 
+
+msgid "Please add a reCAPTCHA Secret Key !"
+msgstr "Please add a reCAPTCHA Secret Key !" 
+
+msgid "Register for reCAPTCHA v2 at %s to get your site key and secret key. Make sure to add your domain name in the settings at the reCAPTCHA website. Read More at %s. %s reCAPTCHA v3 will not work, just v2. v3 will be added soon."
+msgstr "Register for reCAPTCHA v2 at %s to get your site key and secret key. Make sure to add your domain name in the settings at the reCAPTCHA website. Read More at %s. %s reCAPTCHA v3 will not work, just v2. v3 will be added soon."
+
+#. Photo Reviews
+
+msgid "Enable Photo Reviews"
+msgstr "Enable Photo Reviews" 
+
+msgid "Photo required"
+msgstr "Photo required" 
+
+msgid "Make this a required field"
+msgstr "Make this a required field" 
+
+msgid "Maximum photo size"
+msgstr "Maximum photo size" 
+
+msgid "kB (Max 307200kB)"
+msgstr "kB (Max 307200kB)" 
+
+msgid "Maximum photo quantity"
+msgstr "Maximum photo quantity" 
+
+msgid "Maximum value: 20"
+msgstr "Maximum value: 20" 
+
+#. WooCommerce Notification
+
+msgid "Woocommerce Notification Settings to notify users after they complete their orders"
+msgstr "Woocommerce Notification Settings to notify users after they complete their orders" 
+
+msgid "Enter From Address"
+msgstr "Enter From Address" 
+
+msgid "Make sure this is a valid email address. Invalid emails maybe marked as spam"
+msgstr "Make sure this is a valid email address. Invalid emails maybe marked as spam" 
+
+msgid "Subject"
+msgstr "Subject" 
+
+msgid "Subject of the Email"
+msgstr "Subject of the Email" 
+
+msgid "Use {{sitename}} to use the name of your website dynamically. This improves your anti-spam score"
+msgstr "Use {{sitename}} to use the name of your website dynamically. This improves your anti-spam score" 
+
+msgid "Body of the Email"
+msgstr "Body of the Email" 
+
+msgid "Use {{product_review_link}} to add links to purchased product pages"
+msgstr "Use {{product_review_link}} to add links to purchased product pages" 
+
+msgid "Disclaimer"
+msgstr "Disclaimer" 
+
+msgid "Shown at the footer of the email"
+msgstr "Shown at the footer of the email" 
+
+msgid "Notification Time Schedule"
+msgstr "Notification Time Schedule" 
+
+msgid "%s Hours/Days from the time of order completion. You can create multiple remainders (example: 24 hours, 3 days, 7 days from purchase)"
+msgstr "%s Hours/Days from the time of order completion. You can create multiple remainders (example: 24 hours, 3 days, 7 days from purchase)" 
+
+msgid "Notification Schedule"
+msgstr "Notification Schedule" 
+
+msgid "Time Value"
+msgstr "Time Value" 
+
+msgid "Time Unit"
+msgstr "Time Unit" 
+
+msgid "Days"
+msgstr "Days" 
+
+msgid "Hours"
+msgstr "Hours" 
+
+#.Comparison Table
+
+msgid "You can use Comparison Tables via [starcat_review_comparison_table] shortcode with args post_type and posts(post_id)"
+msgstr "You can use Comparison Tables via [starcat_review_comparison_table] shortcode with args post_type and posts(post_id)" 
+
+msgid "Example: [starcat_review_comparison_table post_type='product' posts='213,245,256']"
+msgstr "Example: [starcat_review_comparison_table post_type='product' posts='213,245,256']" 
+
+#. CPT Posts -- Dashboard 
+
+msgid "Starcat Review"
+msgstr "Starcat Review"
+
+msgid "Review"
+msgstr "Review"
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "Reviews"
+msgstr "Reviews"
+
+msgid "Add New"
+msgstr "Add New"
+
+msgid "Add New Review"
+msgstr "Add New Review"
+
+msgid "New Review"
+msgstr "New Review"
+
+msgid "Edit Review"
+msgstr "Edit Review"
+
+msgid "Update Review"
+msgstr "Update Review"
+
+msgid "View Review"
+msgstr "View Review"
+
+msgid "All Reviews"
+msgstr "All Reviews"
+
+msgid "Search Reviews"
+msgstr "Search Reviews"
+
+msgid "No Reviews found"
+msgstr "No Reviews found"
+
+msgid "Parent Reviews"
+msgstr "Parent Reviews"
+
+msgid "No Reviews found in Trash"
+msgstr "No Reviews found in Trash"
+
+msgid "Review Items list"
+msgstr "Review Items list"
+
+msgid "Review Items list Navigation"
+msgstr "Review Items list Navigation"
+
+msgid "Filter Review Items list"
+msgstr "Filter Review Items list"
+
+#. CPT Categories -- Dashboard 
+
+msgid "Review Categories"
+msgstr "Review Categories"
+
+msgid "Review Category"
+msgstr "Review Category"
+
+msgid "Search Review Categories"
+msgstr "Search Review Categories"
+
+msgid "All Review Categories"
+msgstr "All Review Categories"
+
+msgid "Parent Review Category"
+msgstr "Parent Review Category"
+
+msgid "Edit Review Category"
+msgstr "Edit Review Category"
+
+msgid "Update Review Category"
+msgstr "Update Review Category"
+
+msgid "Add New Review Category"
+msgstr "Add New Review Category"
+
+msgid "New Review Category Name"
+msgstr "New Review Category Name"
+
+msgid "Review Category"
+msgstr "Review Category"
+
+#. CPT Tags -- Dashboard 
+
+msgid "Review Tag"
+msgstr "Review Tag"
+
+msgid "Review Tags"
+msgstr "Review Tags"
+
+msgid "Search Review Tags"
+msgstr "Search Review Tags"
+
+msgid "All Review Tags"
+msgstr "All Review Tags"
+
+msgid "Parent Review Tag"
+msgstr "Parent Review Tag"
+
+msgid "Edit Review Tag"
+msgstr "Edit Review Tag"
+
+msgid "Update Review Tag"
+msgstr "Update Review Tag"
+
+msgid "Add New Review Tag"
+msgstr "Add New Review Tag"
+
+msgid "New Review Tag Name"
+msgstr "New Review Tag Name"
+
+msgid "Review Tag"
+msgstr "Review Tag"
+
+#. Post Meta's -- Dashboard 
+
+msgid "Features"
+msgstr "Features" 
+
+msgid "Repeater"
+msgstr "Repeater" 
+
+msgid "Stat Name"
+msgstr "Stat Name" 
+
+msgid "Item Details"
+msgstr "Item Details" 
+
+msgid "Rich Snippets"
+msgstr "Rich Snippets" 
+
+msgid "Author Review Stats List"
+msgstr "Author Review Stats List" 
+
+msgid "Rating 0 - 100"
+msgstr "Rating 0 - 100" 
+
+#.Elementor Widget
+
+msgid "Single Item"
+msgstr "Single Item" 
+
+msgid "Single Item - Header"
+msgstr "Single Item - Header" 
+
+msgid "Single Item - Body"
+msgstr "Single Item - Body" 

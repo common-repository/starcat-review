@@ -1,0 +1,31 @@
+{
+	"version": "0.1.4",
+	"name": "pauple/pluginator",
+	"description": "A collection of tools to build better plugins",
+	"type": "pauple-library",
+	"require": {
+		"composer/installers": "~1.0"
+	},
+	"authors": [
+		{
+			"name": "Your Name",
+			"email": "your@email.com",
+			"homepage": "http://yourhomepage-if-you-have.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Pauple\\Pluginator\\": "src/"
+		}
+	},
+	"require-dev": {
+		"lucatume/wp-browser": ">=3.0.9",
+		"codeception/module-asserts": "^1.3",
+		"codeception/module-phpbrowser": "^1.0",
+		"codeception/module-webdriver": "^1.0",
+		"codeception/module-db": "^1.0",
+		"codeception/module-filesystem": "^1.0",
+		"codeception/module-cli": "^1.0",
+		"codeception/util-universalframework": "^1.0"
+	}
+}

@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Starcat Review\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-29 09:07+0000\n"
+"PO-Revision-Date: 2020-07-29 09:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. User Review Submit, Edit, Reply Form
+#. __('', SCR_DOMAIN)
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Webseite"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Pros"
+msgstr "Profis"
+
+msgid "Type new or select existing pros"
+msgstr "Geben Sie new ein oder wählen Sie vorhandene Profis aus"
+
+msgid "Cons"
+msgstr "Nachteile"
+
+msgid "Type new or select existing cons"
+msgstr "Geben Sie new ein oder wählen Sie vorhandene Nachteile aus"
+
+msgid "Submit"
+msgstr "einreichen"
+
+msgid "Reply"
+msgstr "Antworten"
+
+msgid "REPLY"
+msgstr "ANTWORTEN"
+
+msgid "EDIT"
+msgstr "BEARBEITEN"
+
+msgid "Reply to"
+msgstr "Antwort an"
+
+msgid "Save"
+msgstr "sparen"
+
+msgid "Cancel"
+msgstr "Stornieren"
+
+msgid "Thanks for your review"
+msgstr "Vielen Dank für Ihre Bewertung"
+
+msgid "You can see your review below. Also, look at the users summary"
+msgstr ""
+"Sie können Ihre Bewertung unten sehen. Schauen Sie sich auch die "
+"Benutzerübersicht an"
+
+msgid "Review failed. Please try again later!"
+msgstr "Überprüfung fehlgeschlagen. Bitte versuchen Sie es später noch einmal!"
+
+msgid "If it keeps failing, please contact the admin of the site"
+msgstr ""
+"Wenn dies weiterhin fehlschlägt, wenden Sie sich bitte an den Administrator "
+"der Website"
+
+#. Summary
+msgid "Author Rating"
+msgstr "Autoren Bewertung"
+
+msgid "Users Rating (%d)"
+msgstr "Benutzer Bewertung (%d)"
+
+msgid "Pros & Cons"
+msgstr "Profis und Nachteile"
+
+msgid "Not Rated Yet !!!"
+msgstr "Noch nicht bewertet !!!"
+
+msgid "overall"
+msgstr "Insgesamt"
+
+msgid "customer review"
+msgstr "Kundenrezensionen"
+
+#. User Reviews List Controlls
+msgid "Recent"
+msgstr "Kürzlich"
+
+msgid "Most Positive"
+msgstr "Am positivsten"
+
+msgid "Trending"
+msgstr "Trend"
+
+msgid "Alphabetic Asc"
+msgstr "Alphabetischer Asc"
+
+msgid "Alphabetic Desc"
+msgstr "Alphabetischer Desc"
+
+msgid "Number of Reviews"
+msgstr "Anzahl der Bewertungen"
+
+msgid "Recently Updated"
+msgstr "Kürzlich aktualisiert"
+
+msgid "Most Helpful"
+msgstr "Am hilfreichsten"
+
+msgid "Sort by"
+msgstr "Sortiere nach"
+
+msgid "Search"
+msgstr "Suche"
+
+#. User Reviews List
+msgid "Was this helpful to you ?"
+msgstr "War das hilfreich für dich?"
+
+msgid "%d of %d people found this review helpful"
+msgstr "%d von %d personen fand diese bewertung hilfreich"
+
+msgid "AT"
+msgstr "Um"
+
+msgid "%s in Moderation !"
+msgstr "%s im Mäßigung!"
+
+#. CPT
+msgid "See More"
+msgstr "Mehr sehen"
+
+msgid "Topic"
+msgstr "Thema"
+
+#. Photo Reviews
+msgid "All User Review Images"
+msgstr "Alle Nutzerbewertung Bilder"
+
+msgid "Back to Gallery"
+msgstr "Zurück zur Galerie"
+
+#. Dashboard Settings
+msgid "Starcat Settings"
+msgstr "Starcat Settings"
+
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Main Page"
+msgstr "Hauptseite"
+
+msgid "Category Page"
+msgstr "Kategorieseite"
+
+msgid "Single Page"
+msgstr "Einzelne Seite"
+
+msgid "User Reviews"
+msgstr "Nutzerbewertungen"
+
+msgid "Photo Reviews"
+msgstr "Fotobewertungen"
+
+msgid "Woocommerce Notification"
+msgstr "Woocommerce-Benachrichtigung"
+
+msgid "Comparison Table"
+msgstr "Vergleichstabelle"
+
+#. General Settings
+msgid "Where to include reviews?"
+msgstr "Wo kann man Bewertungen einfügen?"
+
+msgid "Enable author review"
+msgstr "Aktivieren Sie die Autorenbewertung"
+
+msgid "Enable Pros and Cons"
+msgstr "Aktivieren Sie Vor- und Nachteile"
+
+msgid "Stats"
+msgstr "Statistiken"
+
+msgid ""
+"You can rate each of these stats in the edit post page(author rating). And "
+"if you have enabled 'user review', your users can rate them from the front "
+"end"
+msgstr ""
+"Sie können jede dieser Statistiken auf der Seite zum Bearbeiten von Posts "
+"bewerten (Autorenbewertung). Wenn Sie die Benutzerüberprüfung aktiviert "
+"haben, können Ihre Benutzer sie vom Front-End aus bewerten"
+
+msgid "Single or Multiple Stat"
+msgstr "Einzel- oder Mehrfachstat"
+
+msgid "Single"
+msgstr "Single"
+
+msgid "Multiple"
+msgstr "Mehrere"
+
+msgid ""
+"The first stat is always considered as the primary stat ( highlighted by "
+"blue color ), When you change from multiple stat to single stat values from "
+"the primary stat are used."
+msgstr ""
+"Die erste Statistik wird immer als primäre Statistik betrachtet (durch blaue "
+"Farbe hervorgehoben). Wenn Sie von mehreren Statistiken zu einzelnen "
+"Statistiken wechseln, werden Werte aus der primären Statistik verwendet."
+
+msgid "Feature"
+msgstr "Feature"
+
+msgid "Stats Type"
+msgstr "Statistik Typ"
+
+msgid "Source Type"
+msgstr "Quelle Typ"
+
+msgid "Icon"
+msgstr "Symbol"
+
+msgid "Icons"
+msgstr "Symbole"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Show Rating Label"
+msgstr "Bewertungsetikett anzeigen"
+
+msgid "Icons Color"
+msgstr "Symbole Farbe"
+
+msgid "Icons Label Color"
+msgstr "Symbole Beschriftungsfarbe"
+
+msgid "Outline Image"
+msgstr "Umrissbild"
+
+msgid "Image size below 50 * 50 is enough"
+msgstr "Bildgröße unter 50 * 50 ist ausreichend"
+
+msgid "Limit"
+msgstr "Grenze"
+
+msgid "Star stat scale b/w limit 5 to 10"
+msgstr "Sternstatistikskala zwischen Limit 5 und 10"
+
+msgid "Steps"
+msgstr "Schritte"
+
+msgid "Half"
+msgstr "Hälfte"
+
+msgid "Full"
+msgstr "Voll"
+
+msgid "Stat Animate"
+msgstr "Statistiken animiert"
+
+msgid "No rated message"
+msgstr "Keine bewertete Nachricht"
+
+#. Main Page
+msgid "Main Page Meta Title"
+msgstr "Hauptseite Metatitel"
+
+msgid "Note"
+msgstr "Hinweis"
+
+msgid "Keep your meta title between 60 and 64 characters."
+msgstr "Halten Sie Ihren Metatitel zwischen 60 und 64 Zeichen."
+
+msgid "Main Page Meta Description"
+msgstr "Hauptseite Meta Beschreibung"
+
+msgid "Keep your meta descriptions between 150 and 154 characters."
+msgstr "Halten Sie Ihre Meta-Beschreibung zwischen 150 und 154 Zeichen."
+
+msgid "Main Page Slug"
+msgstr "Hauptseite Slug"
+
+msgid "Visit Main Page"
+msgstr "Besuchen Sie die Hauptseite"
+
+msgid "Where is my main page?"
+msgstr "Wo ist meine Hauptseite?"
+
+msgid "Save and Refresh Page if you changed it."
+msgstr "Seite speichern und aktualisieren, wenn Sie sie geändert haben."
+
+msgid "Template"
+msgstr "Vorlage"
+
+msgid ""
+"Layout Types for your Reviews Main Page. Left / Right Sidebar, No-sidebar"
+msgstr ""
+"Layouttypen für Ihre Review-Hauptseite. Linke / rechte Seitenleiste, keine "
+"Seitenleiste"
+
+msgid "You can add widgets to your sidebar from Appearance -> Widgets"
+msgstr ""
+"Sie können Ihrer Seitenleiste Widgets über Darstellung -> Widgets hinzufügen"
+
+msgid "Components Control"
+msgstr "Komponentensteuerung"
+
+msgid "Controls order and visibility of these components in Main Page"
+msgstr ""
+"Kontrollieren Sie die Reihenfolge und Sichtbarkeit dieser Komponenten auf "
+"der Hauptseite"
+
+msgid "Category Listing"
+msgstr "Kategorieliste"
+
+msgid "Review Listing"
+msgstr "Auflistung überprüfen"
+
+msgid "Default Sort By"
+msgstr "Standard Sortieren nach"
+
+msgid "Select a sortby option"
+msgstr "Wählen Sie eine Sortieroption"
+
+msgid "Show Description"
+msgstr "Beschreibung anzeigen"
+
+msgid "Num Of Columns"
+msgstr "Anzahl der Spalten"
+
+msgid "Select an option"
+msgstr "Wähle eine Option"
+
+msgid "Alphabetical Ascending"
+msgstr "Alphabetisch aufsteigend"
+
+msgid "Alphabetical Descending"
+msgstr "Alphabetisch absteigend"
+
+#. Category Page
+msgid ""
+"Layout Types for your Review Categories Page. Left / Right Sidebar, No-"
+"sidebar"
+msgstr ""
+"Layouttypen für Ihre Seite \"Überprüfungskategorien\". Linke / rechte "
+"Seitenleiste, keine Seitenleiste"
+
+msgid "Show Controls"
+msgstr "Steuerelemente anzeigen"
+
+msgid "Controls"
+msgstr "Kontrollen"
+
+msgid "Show Search"
+msgstr "Suche anzeigen"
+
+msgid "Show SortBy"
+msgstr "Suche Sortiere nach"
+
+msgid "Listing Options"
+msgstr "Listing-Optionen"
+
+msgid "Posts Per Page"
+msgstr "Beiträge pro Seite"
+
+#. Single Page
+msgid "These settings are only for starcat-review post type."
+msgstr ""
+"Diese Einstellungen gelten nur für den Beitragstyp \"StarCat-Überprüfungen\"."
+
+msgid ""
+"Layout Types for your Single Review Page. Left / Right Sidebar, No-sidebar."
+msgstr ""
+"Layouttypen für Ihre einzelne Überprüfungsseite. Linke / rechte Seitenleiste,"
+" keine Seitenleiste."
+
+msgid "Show Review"
+msgstr "Bewertungen anzeigen"
+
+msgid "Author Only"
+msgstr "Nur Autor"
+
+msgid "User Only"
+msgstr "Nur für Benutzer"
+
+msgid "Author and User both"
+msgstr "Autor und Benutzer beide"
+
+msgid "Combined Rating"
+msgstr "Kombinierte Bewertung"
+
+#. User Reviews
+msgid "Who Can Review"
+msgstr "Wer kann überprüfen"
+
+msgid "Selecting Everyone will let even Non Logged-in Users add reviews"
+msgstr ""
+"Wenn Sie Alle auswählen, können auch nicht angemeldete Benutzer Bewertungen "
+"hinzufügen"
+
+msgid "Logged In Users"
+msgstr "Angemeldete Benutzer"
+
+msgid "Everyone"
+msgstr "Jeder"
+
+msgid "Auto Approve Review"
+msgstr "Überprüfung automatisch genehmigen"
+
+msgid "Publish the submitted review directly. Don't ask for approval"
+msgstr ""
+"Veröffentlichen Sie die eingereichte Bewertung direkt. Bitten Sie nicht um "
+"Genehmigung"
+
+msgid "Allow Same User Can leave More than One Review"
+msgstr "Derselbe Benutzer zulassen kann mehr als eine Bewertung abgeben"
+
+msgid "Allow Same user to leave more than one review on a single post"
+msgstr ""
+"Erlauben Sie demselben Benutzer, mehr als eine Bewertung für einen einzelnen "
+"Beitrag abzugeben"
+
+msgid "Show User Reviews List Title"
+msgstr "Titel der Liste der Benutzerbewertungen anzeigen"
+
+msgid "User Reviews List Title"
+msgstr "Titel der Liste der Benutzerbewertungen"
+
+msgid "Voting"
+msgstr "Wählen"
+
+msgid "User Review Form"
+msgstr "Benutzerüberprüfungsformular"
+
+msgid "Show Form Title"
+msgstr "Formulartitel anzeigen"
+
+msgid "Form Title"
+msgstr "Formulartitel"
+
+msgid "Show Title"
+msgstr "Titel anzeigen"
+
+msgid "Show Stat"
+msgstr "Statistiken anzeigen"
+
+msgid ""
+"User Review Rating options are based on stats option from general settings "
+"section"
+msgstr ""
+"Die Bewertungsoptionen für die Benutzerbewertung basieren auf der "
+"Statistikoption aus dem Abschnitt \"Allgemeine Einstellungen\""
+
+msgid "Show reCAPTCHA (v2 checkbox)"
+msgstr "ReCAPTCHA anzeigen (Kontrollkästchen v2)"
+
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site-Schlüssel"
+
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Geheimer Schlüssel"
+
+msgid "Please add a reCAPTCHA Secret Key !"
+msgstr "Bitte fügen Sie einen reCAPTCHA Geheimer Schlüssel hinzu!"
+
+msgid "Please add a reCAPTCHA Site Key !"
+msgstr "Bitte fügen Sie einen reCAPTCHA Site-Schlüssel hinzu!"
+
+msgid ""
+"Register for reCAPTCHA v2 at %s to get your site key and secret key. Make "
+"sure to add your domain name in the settings at the reCAPTCHA website. Read "
+"More at %s. %s reCAPTCHA v3 will not work, just v2. v3 will be added soon."
+msgstr ""
+"Registrieren Sie sich bei %s für reCAPTCHA v2, um Ihren Site-Schlüssel und "
+"Ihren geheimen Schlüssel zu erhalten. Stellen Sie sicher, dass Sie Ihren "
+"Domainnamen in den Einstellungen auf der reCAPTCHA-Website hinzufügen. Lesen "
+"Sie mehr unter %s. %s reCAPTCHA v3 funktioniert nicht, nur v2. v3 wird bald "
+"hinzugefügt."
+
+#. Photo Reviews
+msgid "Enable Photo Reviews"
+msgstr "Aktivieren Sie Fotobewertungen"
+
+msgid "Photo required"
+msgstr "Foto erforderlich"
+
+msgid "Make this a required field"
+msgstr "Machen Sie dies zu einem Pflichtfeld"
+
+msgid "Maximum photo size"
+msgstr "Maximale Fotogröße"
+
+msgid "kB (Max 307200kB)"
+msgstr "kB (max. 307200 kB)"
+
+msgid "Maximum photo quantity"
+msgstr "Maximale Fotomenge"
+
+msgid "Maximum value: 20"
+msgstr "Maximalwert: 20"
+
+#. WooCommerce Notification
+msgid ""
+"Woocommerce Notification Settings to notify users after they complete their "
+"orders"
+msgstr ""
+"Woocommerce-Benachrichtigungseinstellungen, um Benutzer zu benachrichtigen, "
+"nachdem sie ihre Bestellungen abgeschlossen haben"
+
+msgid "Enter From Address"
+msgstr "Von Adresse eingeben"
+
+msgid ""
+"Make sure this is a valid email address. Invalid emails maybe marked as spam"
+msgstr ""
+"Stellen Sie sicher, dass dies eine gültige E-Mail-Adresse ist. Ungültige E-"
+"Mails können als Spam markiert werden"
+
+msgid "Subject"
+msgstr "Gegenstand"
+
+msgid "Subject of the Email"
+msgstr "Betreff der E-Mail"
+
+msgid ""
+"Use {{sitename}} to use the name of your website dynamically. This improves "
+"your anti-spam score"
+msgstr ""
+"Verwenden Sie {{sitename}}, um den Namen Ihrer Website dynamisch zu "
+"verwenden. Dies verbessert Ihren Anti-Spam-Score"
+
+msgid "Body of the Email"
+msgstr "Text der E-Mail"
+
+msgid "Use {{product_review_link}} to add links to purchased product pages"
+msgstr ""
+"Verwenden Sie {{product_review_link}}, um Links zu gekauften Produktseiten "
+"hinzuzufügen"
+
+msgid "Disclaimer"
+msgstr "Haftungsausschluss"
+
+msgid "Shown at the footer of the email"
+msgstr "Wird in der Fußzeile der E-Mail angezeigt"
+
+msgid "Notification Time Schedule"
+msgstr "Benachrichtigungszeitplan"
+
+msgid ""
+"%s Hours/Days from the time of order completion. You can create multiple "
+"remainders (example: 24 hours, 3 days, 7 days from purchase)"
+msgstr ""
+"%s Stunden / Tage ab dem Zeitpunkt des Auftragsabschlusses. Sie können "
+"mehrere Erinnerungen erstellen (Beispiel: 24 Stunden, 3 Tage, 7 Tage nach "
+"dem Kauf)."
+
+msgid "Notification Schedule"
+msgstr "Benachrichtigungsplan"
+
+msgid "Time Value"
+msgstr "Zeitwert"
+
+msgid "Time Unit"
+msgstr "Zeiteinheit"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Hours"
+msgstr "Std"
+
+#. Comparison Table
+msgid ""
+"You can use Comparison Tables via [starcat_review_comparison_table] "
+"shortcode with args post_type and posts(post_id)"
+msgstr ""
+"Sie können Vergleichstabellen über den Shortcode "
+"[starcat_review_comparison_table] mit den Argumenten post_type und posts "
+"(post_id) verwenden."
+
+msgid ""
+"Example: [starcat_review_comparison_table post_type='product' posts='213,245,"
+"256']"
+msgstr ""
+"Beispiel: [starcat_review_comparison_table post_type = 'product' posts = "
+"'213,245,256']"
+
+#. CPT Posts -- Dashboard
+msgid "Starcat Review"
+msgstr "Starcat Review"
+
+msgid "Review"
+msgstr "Rezension"
+
+msgid "Rating"
+msgstr "Bewertung"
+
+msgid "Reviews"
+msgstr "Bewertungen"
+
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+msgid "Add New Review"
+msgstr "Neue Bewertung hinzufügen"
+
+msgid "New Review"
+msgstr "Neue Bewertung"
+
+msgid "Edit Review"
+msgstr "Bewertung bearbeiten"
+
+msgid "Update Review"
+msgstr "Überprüfung überprüfen"
+
+msgid "View Review"
+msgstr "Bewertung anzeigen"
+
+msgid "All Reviews"
+msgstr "Alle Bewertungen"
+
+msgid "Search Reviews"
+msgstr "Bewertungen suchen"
+
+msgid "No Reviews found"
+msgstr "Keine Bewertungen gefunden"
+
+msgid "Parent Reviews"
+msgstr "Übergeordnete Bewertungen"
+
+msgid "No Reviews found in Trash"
+msgstr "Keine Bewertungen in Trash gefunden"
+
+msgid "Review Items list"
+msgstr "Liste der Artikel überprüfen"
+
+msgid "Review Items list Navigation"
+msgstr "Liste der Überprüfungselemente Navigation"
+
+msgid "Filter Review Items list"
+msgstr "Liste der Überprüfungselemente filtern"
+
+#. CPT Categories -- Dashboard
+msgid "Review Categories"
+msgstr "Bewertungen Kategorien"
+
+msgid "Review Category"
+msgstr "Bewertungen Kategorie"
+
+msgid "Search Review Categories"
+msgstr "Bewertungen suchen Kategorien"
+
+msgid "All Review Categories"
+msgstr "Alle Bewertungen Kategorien"
+
+msgid "Parent Review Category"
+msgstr "Übergeordnete Bewertungskategorie"
+
+msgid "Edit Review Category"
+msgstr "Überprüfungskategorie bearbeiten"
+
+msgid "Update Review Category"
+msgstr "Überprüfungskategorie aktualisieren"
+
+msgid "Add New Review Category"
+msgstr "Neue Bewertungskategorie hinzufügen"
+
+msgid "New Review Category Name"
+msgstr "Neue Entscheidungskategorie gehört"
+
+#. CPT Tags -- Dashboard
+msgid "Review Tag"
+msgstr "Tag überprüfen"
+
+msgid "Review Tags"
+msgstr "Tags überprüfen"
+
+msgid "Search Review Tags"
+msgstr "Suche Review Tags"
+
+msgid "All Review Tags"
+msgstr "Alle Review-Tags"
+
+msgid "Parent Review Tag"
+msgstr "Übergeordnetes Überprüfungs-Tag"
+
+msgid "Edit Review Tag"
+msgstr "Review-Tag bearbeiten"
+
+msgid "Update Review Tag"
+msgstr "Review Tag aktualisieren"
+
+msgid "Add New Review Tag"
+msgstr "Neues Review-Tag hinzufügen"
+
+msgid "New Review Tag Name"
+msgstr "Neuer Review-Tag-Name"
+
+#. Post Meta's -- Dashboard
+msgid "Features"
+msgstr "Eigenschaften"
+
+msgid "Repeater"
+msgstr "Verstärker"
+
+msgid "Stat Name"
+msgstr "Stat Name"
+
+msgid "Item Details"
+msgstr "Artikeldetails"
+
+msgid "Rich Snippets"
+msgstr "Reiche Schnipsel"
+
+msgid "Author Review Stats List"
+msgstr "Liste der Autoren-Überprüfungsstatistiken"
+
+msgid "Rating 0 - 100"
+msgstr "Bewertung 0 - 100"
+
+#. Elementor Widget
+msgid "Single Item"
+msgstr "Einzelexemplar"
+
+msgid "Single Item - Header"
+msgstr "Einzelstück - Kopfzeile"
+
+msgid "Single Item - Body"
+msgstr "Einzelstück - Körper"

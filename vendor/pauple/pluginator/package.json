@@ -1,0 +1,13 @@
+{
+    "name": "pluginator",
+    "version": "0.1",
+    "description": "A collection of tools to build better plugins",
+    "main": "Gruntfile.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "setup": "composer update && composer dump-autoload",
+        "unit": "vendor/bin/codecept run unit  -vvv"
+    }
+}
